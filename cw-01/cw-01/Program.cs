@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("It is time");
 Console.WriteLine("ARISE!");
+Console.WriteLine("ARISE!");
